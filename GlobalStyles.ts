@@ -1,0 +1,83 @@
+/* fonts */
+export const FontFamily = {
+  poppinsMedium: "Poppins-Medium",
+  quandoRegular: "Quando-Regular",
+  sFProText: "SF Pro Text",
+  rubikRegular: "Rubik-Regular",
+  rubikMedium: "Rubik-Medium",
+  robotoBold: "Roboto-Bold",
+  robotoRegular: "Roboto-Regular",
+  poppinsRegular: "Poppins-Regular",
+  robotoMedium: "Roboto-Medium",
+  playRegular: "Play-Regular",
+};
+/* font sizes */
+export const FontSize = {
+  size_xl: 20,
+  size_5xl: 24,
+  size_lg: 18,
+  size_xs: 12,
+  size_mini: 15,
+  size_sm: 14,
+  size_base: 16,
+  size_5xs: 8,
+  size_3xl: 22,
+  size_smi: 13,
+  size_11xl: 30,
+  size_mid: 17,
+};
+/* Colors */
+export const Color = {
+  white: "#fff",
+  colorCrimson_100: "#ff2156",
+  eB3738: "#eb3738",
+  colorGray_100: "#7e7e7e",
+  colorGray_200: "#7c7c7c",
+  colorGray_300: "#272a2f",
+  grey900: "#020202",
+  systemBlack: "#000",
+  colorDarkslategray_100: "#4b4b4b",
+  colorLightgray_100: "#cdcdcd",
+  colorLightgray_200: "#cacaca",
+  colorDarkgray_100: "#b1b1b1",
+  colorDarkgray_200: "#adadad",
+  colorWhitesmoke_100: "#f8f8f8",
+  colorWhitesmoke_200: "#f7f7f7",
+  colorCadetblue: "#689593",
+  colorDimgray: "#5e5e5e",
+};
+/* Paddings */
+export const Padding = {
+  p_3xs: 10,
+  p_25xl: 44,
+  p_base: 16,
+  p_7xl: 26,
+  p_lg: 18,
+  p_67xl: 86,
+  p_mid: 17,
+  p_lgi: 19,
+  p_10xl: 29,
+  p_sm: 14,
+  p_smi: 13,
+  p_0: 0,
+  p_xl: 20,
+  p_11xs: 2,
+  p_5xs: 8,
+  p_2xs: 11,
+  p_xs: 12,
+};
+/* border radiuses */
+export const Border = {
+  br_5xs: 8,
+  br_6xl: 25,
+  br_8xs: 5,
+  br_10xs: 3,
+  br_xl: 20,
+  br_3xs: 10,
+  br_31xl: 50,
+  br_71xl: 90,
+  br_9xs: 4,
+  br_4xl: 23,
+  br_11xs: 2,
+  br_11xl: 30,
+};
